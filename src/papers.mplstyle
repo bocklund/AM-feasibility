@@ -1,0 +1,10 @@
+figure.dpi: 300
+savefig.format: pdf
+figure.autolayout: True  # use tight_layout to layout the figure automatically
+# Fonts
+font.size: 14
+axes.labelsize: large
+axes.titlesize: x-large
+font.family: serif
+font.serif: Arial, Computer Modern Roman, DejaVu Serif, Bitstream Vera Serif, New Century Schoolbook, Century Schoolbook L, Utopia, ITC Bookman, Bookman, Nimbus Roman No9 L, Times New Roman, Times, Palatino, Charter, serif
+# mathtext.fontset: cm  # cm = Computer Modern
